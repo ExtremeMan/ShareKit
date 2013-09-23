@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		456BADAB169107D1005B3077 /* SHKGooglePlus.h in Headers */ = {isa = PBXBuildFile; fileRef = 456BADA9169107D1005B3077 /* SHKGooglePlus.h */; };
 		456BADAC169107D1005B3077 /* SHKGooglePlus.m in Sources */ = {isa = PBXBuildFile; fileRef = 456BADAA169107D1005B3077 /* SHKGooglePlus.m */; };
-		456BADAD1691095B005B3077 /* libGoogle Plus.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4503EBC0169104470057294C /* libGoogle Plus.a */; };
 		7A0F91D9156BA2A0009CB40A /* SHK.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A536A711DBE3B9004A1712 /* SHK.m */; };
 		7A0F91DA156BA2A0009CB40A /* SHKItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A536A911DBE3B9004A1712 /* SHKItem.m */; };
 		7A0F91DB156BA2A0009CB40A /* SHKOfflineSharer.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A536AB11DBE3B9004A1712 /* SHKOfflineSharer.m */; };
@@ -92,14 +91,12 @@
 		7A1AFD3B160E14520086B98A /* SHKiOSTwitter.m in Sources */ = {isa = PBXBuildFile; fileRef = F92EF488148E915E0070F913 /* SHKiOSTwitter.m */; };
 		7A1AFD3C160E14520086B98A /* SHKTwitter.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A536E911DBE3B9004A1712 /* SHKTwitter.m */; };
 		7A203D0B16EB7E0100421995 /* SHKHatena.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A203D0116EB776D00421995 /* SHKHatena.m */; };
-		7A203D0C16EB7E2300421995 /* libHatena.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A203D0A16EB7DA200421995 /* libHatena.a */; };
 		7A2882491553CC61007DC379 /* ShareKit.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 90E765A51418F2480026B656 /* ShareKit.bundle */; };
 		7A2882571553D7E1007DC379 /* SHKSharers.plist in Resources */ = {isa = PBXBuildFile; fileRef = 43A536AC11DBE3B9004A1712 /* SHKSharers.plist */; };
 		7A3082B416DA0721005AF769 /* SHKTumblr.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A3082B216D9E255005AF769 /* SHKTumblr.m */; };
 		7A3A0D83170CBDD300A0B717 /* SHKFile.h in Headers */ = {isa = PBXBuildFile; fileRef = 7A3A0D81170CBDD300A0B717 /* SHKFile.h */; };
 		7A3A0D84170CBDD300A0B717 /* SHKFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A3A0D82170CBDD300A0B717 /* SHKFile.m */; };
 		7A49DBBD16BC193E004B7E78 /* SHKReadability.m in Sources */ = {isa = PBXBuildFile; fileRef = FDB495A31520349A00505A99 /* SHKReadability.m */; };
-		7A49DBC716BC19BD004B7E78 /* libReadability.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A49DBC316BC193E004B7E78 /* libReadability.a */; };
 		7A56BFC41659173D00134F04 /* SHKiOSSharer.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A56BFC01659173D00134F04 /* SHKiOSSharer.m */; };
 		7A56BFDE16591FE000134F04 /* SHKiOSFacebook.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A56BFD916591FE000134F04 /* SHKiOSFacebook.m */; };
 		7A56BFE21659278E00134F04 /* SHKiOS5Twitter.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A56BFE01659278E00134F04 /* SHKiOS5Twitter.m */; };
@@ -120,14 +117,11 @@
 		7AA2E9F61743E51C00B17434 /* PocketAPITypes.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AA2E9EC1743E51C00B17434 /* PocketAPITypes.h */; };
 		7AA2E9F71743E51C00B17434 /* SFHFKeychainUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AA2E9ED1743E51C00B17434 /* SFHFKeychainUtils.h */; };
 		7AA2E9F81743E51C00B17434 /* SFHFKeychainUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AA2E9EE1743E51C00B17434 /* SFHFKeychainUtils.m */; };
-		7AA2E9F91743E5B200B17434 /* libPocket SDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A4E4663173E2C2500CCEE80 /* libPocket SDK.a */; };
-		7AA2E9FA1743E5B200B17434 /* libPocket.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A4E465A173E2B2900CCEE80 /* libPocket.a */; };
 		7AA83BCC1705E355009C483A /* libGooglePlusUniversal.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 456BAD1016910707005B3077 /* libGooglePlusUniversal.a */; };
 		7AA83BCE1705E355009C483A /* GPPDeepLink.h in Headers */ = {isa = PBXBuildFile; fileRef = 456BAD0B16910707005B3077 /* GPPDeepLink.h */; };
 		7AA83BCF1705E355009C483A /* GPPShare.h in Headers */ = {isa = PBXBuildFile; fileRef = 456BAD0C16910707005B3077 /* GPPShare.h */; };
 		7AA83BD01705E355009C483A /* GPPSignIn.h in Headers */ = {isa = PBXBuildFile; fileRef = 456BAD0D16910707005B3077 /* GPPSignIn.h */; };
 		7AA83BD11705E355009C483A /* GPPSignInButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 456BAD0E16910707005B3077 /* GPPSignInButton.h */; };
-		7AA83BFD1705E526009C483A /* libGoogle Plus SDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7AA83BF91705E355009C483A /* libGoogle Plus SDK.a */; };
 		7AA83C42170637CC009C483A /* ENAFURLConnectionOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AA83C40170637CC009C483A /* ENAFURLConnectionOperation.h */; };
 		7AA83C43170637CC009C483A /* ENAFURLConnectionOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AA83C41170637CC009C483A /* ENAFURLConnectionOperation.m */; };
 		7AA83C4817063828009C483A /* ENGCOAuth.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AA83C4417063828009C483A /* ENGCOAuth.h */; };
@@ -141,37 +135,16 @@
 		7AA83C5717063926009C483A /* NSDate+EDAMAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AA83C5517063926009C483A /* NSDate+EDAMAdditions.h */; };
 		7AA83C5817063926009C483A /* NSDate+EDAMAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AA83C5617063926009C483A /* NSDate+EDAMAdditions.m */; };
 		7AAE8CA616EB961700429C51 /* SHKPlurk.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AAE8C9C16EB950800429C51 /* SHKPlurk.m */; };
-		7AAE8CA916EB965200429C51 /* libPlurk.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7AAE8CA516EB960500429C51 /* libPlurk.a */; };
 		7AB8051115AC7BCC004FB430 /* GTMNSString+HTML.m in Sources */ = {isa = PBXBuildFile; fileRef = 427FBAEE15934A0D0024F825 /* GTMNSString+HTML.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		7ABCDBAC1577528B003BBFFD /* SHKFormFieldCellSwitch.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABCDBA81577528B003BBFFD /* SHKFormFieldCellSwitch.m */; };
 		7ABCDBB3157757D1003BBFFD /* SHKFormFieldCellOptionPicker.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABCDBAF157757D1003BBFFD /* SHKFormFieldCellOptionPicker.m */; };
 		7ABDD99817A7FF6D00E4B014 /* SHKFormFieldLargeTextSettings.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABDD99617A7FF6D00E4B014 /* SHKFormFieldLargeTextSettings.h */; };
 		7ABDD99917A7FF6D00E4B014 /* SHKFormFieldLargeTextSettings.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABDD99717A7FF6D00E4B014 /* SHKFormFieldLargeTextSettings.m */; };
-		7AC28F0B165A21C2006D7441 /* libCopy.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBECD2162F0756009D46E4 /* libCopy.a */; };
-		7AC28F0C165A21C2006D7441 /* libDelicious.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBED08162F0858009D46E4 /* libDelicious.a */; };
-		7AC28F0D165A21C2006D7441 /* libDiigo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBED11162F087F009D46E4 /* libDiigo.a */; };
-		7AC28F0E165A21C2006D7441 /* libEmail.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBECDB162F0779009D46E4 /* libEmail.a */; };
-		7AC28F0F165A21C2006D7441 /* libEvernote SDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A1AFCE2160E127B0086B98A /* libEvernote SDK.a */; };
-		7AC28F10165A21C2006D7441 /* libEvernote.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBED24162F08E6009D46E4 /* libEvernote.a */; };
 		7AC28F11165A21C2006D7441 /* libFacebook.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBED37162F0B65009D46E4 /* libFacebook.a */; };
-		7AC28F12165A21C2006D7441 /* libFlickr SDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A1AFD24160E13740086B98A /* libFlickr SDK.a */; };
-		7AC28F13165A21C2006D7441 /* libFlickr.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBED50162F0BA7009D46E4 /* libFlickr.a */; };
-		7AC28F14165A21C2006D7441 /* libFoursquareV2.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBED46162F0B86009D46E4 /* libFoursquareV2.a */; };
-		7AC28F16165A21C2006D7441 /* libInstagram.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A16F3C216134A890019645D /* libInstagram.a */; };
-		7AC28F17165A21C2006D7441 /* libInstapaper.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBED62162F0BE8009D46E4 /* libInstapaper.a */; };
-		7AC28F1A165A21C2006D7441 /* libLinkedIn.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBED6B162F0C03009D46E4 /* libLinkedIn.a */; };
-		7AC28F1B165A21C2006D7441 /* libLogout.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBECC9162F0719009D46E4 /* libLogout.a */; };
 		7AC28F1C165A21C2006D7441 /* libOAuth.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A16F37E161340DD0019645D /* libOAuth.a */; };
-		7AC28F1D165A21C2006D7441 /* libOpen in Safari.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBECE4162F07B4009D46E4 /* libOpen in Safari.a */; };
-		7AC28F1E165A21C2006D7441 /* libPinboard.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBED74162F0C1A009D46E4 /* libPinboard.a */; };
-		7AC28F1F165A21C2006D7441 /* libPrint.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBECBE162F063F009D46E4 /* libPrint.a */; };
 		7AC28F20165A21C2006D7441 /* libReachability.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A1AFCD1160E123C0086B98A /* libReachability.a */; };
-		7AC28F22165A21C2006D7441 /* libSave to Album.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBECED162F07DF009D46E4 /* libSave to Album.a */; };
 		7AC28F23165A21C2006D7441 /* libShareKitCore.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A0F9246156BA2A0009CB40A /* libShareKitCore.a */; };
-		7AC28F24165A21C2006D7441 /* libSina Weibo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7AC2A3A016597F4C0089ABE8 /* libSina Weibo.a */; };
 		7AC28F25165A21C2006D7441 /* libSSKeyChain.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A1AFCC0160E11F90086B98A /* libSSKeyChain.a */; };
-		7AC28F26165A21C2006D7441 /* libText Message.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBECF6162F080F009D46E4 /* libText Message.a */; };
-		7AC28F27165A21C2006D7441 /* libTumblr.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBED86162F0C4D009D46E4 /* libTumblr.a */; };
 		7AC28F28165A21C2006D7441 /* libTwitter.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A1AFD3A160E14340086B98A /* libTwitter.a */; };
 		7AC28F29165A21C2006D7441 /* libVKontakte.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBED1B162F08A3009D46E4 /* libVKontakte.a */; };
 		7AC2A3A116597F9C0089ABE8 /* SHKSinaWeibo.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AC2A38D16597CCC0089ABE8 /* SHKSinaWeibo.m */; };
@@ -245,11 +218,6 @@
 		7AECF401171D529D000722FA /* GTLYouTubeVideoStatistics.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AECF395171D529D000722FA /* GTLYouTubeVideoStatistics.h */; };
 		7AECF403171D529D000722FA /* GTLYouTubeVideoStatus.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AECF397171D529D000722FA /* GTLYouTubeVideoStatus.h */; };
 		7AECF405171D529D000722FA /* GTLYouTubeVideoTopicDetails.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AECF399171D529D000722FA /* GTLYouTubeVideoTopicDetails.h */; };
-		7AECF40E171D52DB000722FA /* libYouTube SDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7AECF32C171D51C3000722FA /* libYouTube SDK.a */; };
-		7AECF40F171D52DF000722FA /* libYouTube.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7AECF322171D5194000722FA /* libYouTube.a */; };
-		7AECF412171D55BD000722FA /* libGTLTouchStaticLib.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7AECF2EE171D4679000722FA /* libGTLTouchStaticLib.a */; };
-		949202C6172A9BBD00DF9530 /* libBuffer.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 949BCB8C172A993000D706D4 /* libBuffer.a */; };
-		9492063917302B4C00DF9530 /* libKippt.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBECFF162F0835009D46E4 /* libKippt.a */; };
 		949BCB97172A99AF00D706D4 /* SHKBuffer.h in Headers */ = {isa = PBXBuildFile; fileRef = 949BCB95172A99AF00D706D4 /* SHKBuffer.h */; };
 		949BCB98172A99AF00D706D4 /* SHKBuffer.m in Sources */ = {isa = PBXBuildFile; fileRef = 949BCB96172A99AF00D706D4 /* SHKBuffer.m */; };
 		94CC29011745399400C31CD8 /* BufferSDK.h in Headers */ = {isa = PBXBuildFile; fileRef = 94CC28FE1745399400C31CD8 /* BufferSDK.h */; };
@@ -282,59 +250,9 @@
 		CE857E3C16771F7C005003DA /* SHKVKontakteRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = CE857E3816771D78005003DA /* SHKVKontakteRequest.m */; };
 		DE334C2216F3339300FF692B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
 		DE334C2D16F3339A00FF692B /* SHKDropbox.m in Sources */ = {isa = PBXBuildFile; fileRef = DE334C0616F3319800FF692B /* SHKDropbox.m */; };
-		DE334C2E16F333A800FF692B /* libDropbox.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DE334C2116F3339300FF692B /* libDropbox.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		456BADAE16910966005B3077 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 4503EBB8169104470057294C;
-			remoteInfo = "Google Plus";
-		};
-		7A203D0D16EB7F5100421995 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 7A203D0216EB7DA200421995;
-			remoteInfo = Hatena;
-		};
-		7A49DBC516BC199F004B7E78 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 7A49DBBB16BC193E004B7E78;
-			remoteInfo = Readability;
-		};
-		7A4E4664173E2C4F00CCEE80 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 7A4E4652173E2B2900CCEE80;
-			remoteInfo = Pocket;
-		};
-		7A4E4666173E2C5300CCEE80 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 7A4E465B173E2C2500CCEE80;
-			remoteInfo = "Pocket SDK";
-		};
-		7AA83BFB1705E4FF009C483A /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 7AA83BAA1705E355009C483A;
-			remoteInfo = "Google Plus SDK";
-		};
-		7AAE8CA716EB964900429C51 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 7AAE8C9D16EB960500429C51;
-			remoteInfo = Plurk;
-		};
 		7AC28ECB165A1EE7006D7441 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
@@ -363,89 +281,12 @@
 			remoteGlobalIDString = 7A1AFCC2160E123C0086B98A;
 			remoteInfo = Reachability;
 		};
-		7AC28ED5165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBECB6162F063F009D46E4;
-			remoteInfo = Print;
-		};
-		7AC28ED7165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBECC1162F0719009D46E4;
-			remoteInfo = Logout;
-		};
-		7AC28ED9165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBECCA162F0756009D46E4;
-			remoteInfo = Copy;
-		};
-		7AC28EDB165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBECD3162F0779009D46E4;
-			remoteInfo = Email;
-		};
-		7AC28EDD165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBECDC162F07B4009D46E4;
-			remoteInfo = "Open in Safari";
-		};
-		7AC28EDF165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBECE5162F07DF009D46E4;
-			remoteInfo = "Save to Album";
-		};
-		7AC28EE1165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBECEE162F080F009D46E4;
-			remoteInfo = "Text Message";
-		};
-		7AC28EE5165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBED00162F0858009D46E4;
-			remoteInfo = Delicious;
-		};
-		7AC28EE9165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBED09162F087F009D46E4;
-			remoteInfo = Diigo;
-		};
 		7AC28EEB165A1EE7006D7441 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = AABBED12162F08A3009D46E4;
 			remoteInfo = VKontakte;
-		};
-		7AC28EED165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBED1C162F08E6009D46E4;
-			remoteInfo = Evernote;
-		};
-		7AC28EEF165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 7A1AFCD3160E127B0086B98A;
-			remoteInfo = "Evernote SDK";
 		};
 		7AC28EF1165A1EE7006D7441 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -454,75 +295,12 @@
 			remoteGlobalIDString = AABBED25162F0B65009D46E4;
 			remoteInfo = Facebook;
 		};
-		7AC28EF3165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBED38162F0B86009D46E4;
-			remoteInfo = FoursquareV2;
-		};
-		7AC28EF5165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBED47162F0BA7009D46E4;
-			remoteInfo = Flickr;
-		};
-		7AC28EF7165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 7A1AFD15160E13740086B98A;
-			remoteInfo = "Flickr SDK";
-		};
-		7AC28EFB165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 7A16F3B316134A890019645D;
-			remoteInfo = Instagram;
-		};
-		7AC28EFD165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBED5A162F0BE8009D46E4;
-			remoteInfo = Instapaper;
-		};
-		7AC28EFF165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBED63162F0C03009D46E4;
-			remoteInfo = LinkedIn;
-		};
-		7AC28F01165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBED6C162F0C1A009D46E4;
-			remoteInfo = Pinboard;
-		};
-		7AC28F05165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBED7E162F0C4D009D46E4;
-			remoteInfo = Tumbl;
-		};
 		7AC28F07165A1EE7006D7441 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 7A1AFD2B160E14340086B98A;
 			remoteInfo = Twitter;
-		};
-		7AC28F09165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 7AC2A38E16597F4C0089ABE8;
-			remoteInfo = "Sina Weibo";
 		};
 		7AECF2EB171D4679000722FA /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -551,48 +329,6 @@
 			proxyType = 2;
 			remoteGlobalIDString = 4F1AD9020B71603F00DC0485;
 			remoteInfo = DevelopmentTestTool;
-		};
-		7AECF40A171D52D0000722FA /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 7AECF31A171D5194000722FA;
-			remoteInfo = YouTube;
-		};
-		7AECF40C171D52D4000722FA /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 7AECF324171D51C3000722FA;
-			remoteInfo = "YouTube SDK";
-		};
-		7AECF410171D55B7000722FA /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 7AECF2E4171D4679000722FA /* GTL.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = 4F1C6E0E1027B3CE00B46459;
-			remoteInfo = GTLTouchStaticLib;
-		};
-		949202C7172A9BC800DF9530 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 949BCB84172A993000D706D4;
-			remoteInfo = Buffer;
-		};
-		9492063117302B0700DF9530 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBECF7162F0835009D46E4;
-			remoteInfo = Kippt;
-		};
-		DE334C2F16F333B000FF692B /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = DE334C2016F3339300FF692B;
-			remoteInfo = Dropbox;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -1199,44 +935,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7AA2E9F91743E5B200B17434 /* libPocket SDK.a in Frameworks */,
-				7AA2E9FA1743E5B200B17434 /* libPocket.a in Frameworks */,
-				9492063917302B4C00DF9530 /* libKippt.a in Frameworks */,
-				949202C6172A9BBD00DF9530 /* libBuffer.a in Frameworks */,
-				7AECF412171D55BD000722FA /* libGTLTouchStaticLib.a in Frameworks */,
-				7AECF40F171D52DF000722FA /* libYouTube.a in Frameworks */,
-				7AECF40E171D52DB000722FA /* libYouTube SDK.a in Frameworks */,
-				7AA83BFD1705E526009C483A /* libGoogle Plus SDK.a in Frameworks */,
-				DE334C2E16F333A800FF692B /* libDropbox.a in Frameworks */,
-				7AAE8CA916EB965200429C51 /* libPlurk.a in Frameworks */,
-				7A203D0C16EB7E2300421995 /* libHatena.a in Frameworks */,
-				456BADAD1691095B005B3077 /* libGoogle Plus.a in Frameworks */,
-				7A49DBC716BC19BD004B7E78 /* libReadability.a in Frameworks */,
-				7AC28F0B165A21C2006D7441 /* libCopy.a in Frameworks */,
-				7AC28F0C165A21C2006D7441 /* libDelicious.a in Frameworks */,
-				7AC28F0D165A21C2006D7441 /* libDiigo.a in Frameworks */,
-				7AC28F0E165A21C2006D7441 /* libEmail.a in Frameworks */,
-				7AC28F0F165A21C2006D7441 /* libEvernote SDK.a in Frameworks */,
-				7AC28F10165A21C2006D7441 /* libEvernote.a in Frameworks */,
 				7AC28F11165A21C2006D7441 /* libFacebook.a in Frameworks */,
-				7AC28F12165A21C2006D7441 /* libFlickr SDK.a in Frameworks */,
-				7AC28F13165A21C2006D7441 /* libFlickr.a in Frameworks */,
-				7AC28F14165A21C2006D7441 /* libFoursquareV2.a in Frameworks */,
-				7AC28F16165A21C2006D7441 /* libInstagram.a in Frameworks */,
-				7AC28F17165A21C2006D7441 /* libInstapaper.a in Frameworks */,
-				7AC28F1A165A21C2006D7441 /* libLinkedIn.a in Frameworks */,
-				7AC28F1B165A21C2006D7441 /* libLogout.a in Frameworks */,
 				7AC28F1C165A21C2006D7441 /* libOAuth.a in Frameworks */,
-				7AC28F1D165A21C2006D7441 /* libOpen in Safari.a in Frameworks */,
-				7AC28F1E165A21C2006D7441 /* libPinboard.a in Frameworks */,
-				7AC28F1F165A21C2006D7441 /* libPrint.a in Frameworks */,
 				7AC28F20165A21C2006D7441 /* libReachability.a in Frameworks */,
-				7AC28F22165A21C2006D7441 /* libSave to Album.a in Frameworks */,
 				7AC28F23165A21C2006D7441 /* libShareKitCore.a in Frameworks */,
-				7AC28F24165A21C2006D7441 /* libSina Weibo.a in Frameworks */,
 				7AC28F25165A21C2006D7441 /* libSSKeyChain.a in Frameworks */,
-				7AC28F26165A21C2006D7441 /* libText Message.a in Frameworks */,
-				7AC28F27165A21C2006D7441 /* libTumblr.a in Frameworks */,
 				7AC28F28165A21C2006D7441 /* libTwitter.a in Frameworks */,
 				7AC28F29165A21C2006D7441 /* libVKontakte.a in Frameworks */,
 			);
@@ -3145,46 +2848,13 @@
 			buildRules = (
 			);
 			dependencies = (
-				7A4E4667173E2C5300CCEE80 /* PBXTargetDependency */,
-				7A4E4665173E2C4F00CCEE80 /* PBXTargetDependency */,
-				9492063217302B0700DF9530 /* PBXTargetDependency */,
-				949202C8172A9BC800DF9530 /* PBXTargetDependency */,
-				7AECF411171D55B7000722FA /* PBXTargetDependency */,
-				7AECF40D171D52D4000722FA /* PBXTargetDependency */,
-				7AECF40B171D52D0000722FA /* PBXTargetDependency */,
-				DE334C3016F333B000FF692B /* PBXTargetDependency */,
-				7AAE8CA816EB964900429C51 /* PBXTargetDependency */,
-				7A203D0E16EB7F5100421995 /* PBXTargetDependency */,
-				7A49DBC616BC199F004B7E78 /* PBXTargetDependency */,
 				7AC28ECC165A1EE7006D7441 /* PBXTargetDependency */,
 				7AC28ED0165A1EE7006D7441 /* PBXTargetDependency */,
 				7AC28ED2165A1EE7006D7441 /* PBXTargetDependency */,
 				7AC28ED4165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28ED6165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28ED8165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EDA165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EDC165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EDE165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EE0165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EE2165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EE6165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EEA165A1EE7006D7441 /* PBXTargetDependency */,
 				7AC28EEC165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EEE165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EF0165A1EE7006D7441 /* PBXTargetDependency */,
 				7AC28EF2165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EF4165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EF6165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EF8165A1EE7006D7441 /* PBXTargetDependency */,
-				456BADAF16910966005B3077 /* PBXTargetDependency */,
-				7AA83BFC1705E4FF009C483A /* PBXTargetDependency */,
-				7AC28EFC165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EFE165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28F00165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28F02165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28F06165A1EE7006D7441 /* PBXTargetDependency */,
 				7AC28F08165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28F0A165A1EE7006D7441 /* PBXTargetDependency */,
 			);
 			name = "Static Library";
 			productName = ShareKitLibrary;
@@ -4174,41 +3844,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		456BADAF16910966005B3077 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 4503EBB8169104470057294C /* Google Plus */;
-			targetProxy = 456BADAE16910966005B3077 /* PBXContainerItemProxy */;
-		};
-		7A203D0E16EB7F5100421995 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 7A203D0216EB7DA200421995 /* Hatena */;
-			targetProxy = 7A203D0D16EB7F5100421995 /* PBXContainerItemProxy */;
-		};
-		7A49DBC616BC199F004B7E78 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 7A49DBBB16BC193E004B7E78 /* Readability */;
-			targetProxy = 7A49DBC516BC199F004B7E78 /* PBXContainerItemProxy */;
-		};
-		7A4E4665173E2C4F00CCEE80 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 7A4E4652173E2B2900CCEE80 /* Pocket */;
-			targetProxy = 7A4E4664173E2C4F00CCEE80 /* PBXContainerItemProxy */;
-		};
-		7A4E4667173E2C5300CCEE80 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 7A4E465B173E2C2500CCEE80 /* Pocket SDK */;
-			targetProxy = 7A4E4666173E2C5300CCEE80 /* PBXContainerItemProxy */;
-		};
-		7AA83BFC1705E4FF009C483A /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 7AA83BAA1705E355009C483A /* Google Plus SDK */;
-			targetProxy = 7AA83BFB1705E4FF009C483A /* PBXContainerItemProxy */;
-		};
-		7AAE8CA816EB964900429C51 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 7AAE8C9D16EB960500429C51 /* Plurk */;
-			targetProxy = 7AAE8CA716EB964900429C51 /* PBXContainerItemProxy */;
-		};
 		7AC28ECC165A1EE7006D7441 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 7A0F91D1156BA2A0009CB40A /* Static Library Core */;
@@ -4229,150 +3864,20 @@
 			target = 7A1AFCC2160E123C0086B98A /* Reachability */;
 			targetProxy = 7AC28ED3165A1EE7006D7441 /* PBXContainerItemProxy */;
 		};
-		7AC28ED6165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBECB6162F063F009D46E4 /* Print */;
-			targetProxy = 7AC28ED5165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28ED8165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBECC1162F0719009D46E4 /* Logout */;
-			targetProxy = 7AC28ED7165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EDA165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBECCA162F0756009D46E4 /* Copy */;
-			targetProxy = 7AC28ED9165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EDC165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBECD3162F0779009D46E4 /* Email */;
-			targetProxy = 7AC28EDB165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EDE165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBECDC162F07B4009D46E4 /* Open in Safari */;
-			targetProxy = 7AC28EDD165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EE0165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBECE5162F07DF009D46E4 /* Save to Album */;
-			targetProxy = 7AC28EDF165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EE2165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBECEE162F080F009D46E4 /* Text Message */;
-			targetProxy = 7AC28EE1165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EE6165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBED00162F0858009D46E4 /* Delicious */;
-			targetProxy = 7AC28EE5165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EEA165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBED09162F087F009D46E4 /* Diigo */;
-			targetProxy = 7AC28EE9165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
 		7AC28EEC165A1EE7006D7441 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = AABBED12162F08A3009D46E4 /* VKontakte */;
 			targetProxy = 7AC28EEB165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EEE165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBED1C162F08E6009D46E4 /* Evernote */;
-			targetProxy = 7AC28EED165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EF0165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 7A1AFCD3160E127B0086B98A /* Evernote SDK */;
-			targetProxy = 7AC28EEF165A1EE7006D7441 /* PBXContainerItemProxy */;
 		};
 		7AC28EF2165A1EE7006D7441 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = AABBED25162F0B65009D46E4 /* Facebook */;
 			targetProxy = 7AC28EF1165A1EE7006D7441 /* PBXContainerItemProxy */;
 		};
-		7AC28EF4165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBED38162F0B86009D46E4 /* FoursquareV2 */;
-			targetProxy = 7AC28EF3165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EF6165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBED47162F0BA7009D46E4 /* Flickr */;
-			targetProxy = 7AC28EF5165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EF8165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 7A1AFD15160E13740086B98A /* Flickr SDK */;
-			targetProxy = 7AC28EF7165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EFC165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 7A16F3B316134A890019645D /* Instagram */;
-			targetProxy = 7AC28EFB165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EFE165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBED5A162F0BE8009D46E4 /* Instapaper */;
-			targetProxy = 7AC28EFD165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28F00165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBED63162F0C03009D46E4 /* LinkedIn */;
-			targetProxy = 7AC28EFF165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28F02165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBED6C162F0C1A009D46E4 /* Pinboard */;
-			targetProxy = 7AC28F01165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28F06165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBED7E162F0C4D009D46E4 /* Tumbl */;
-			targetProxy = 7AC28F05165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
 		7AC28F08165A1EE7006D7441 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 7A1AFD2B160E14340086B98A /* Twitter */;
 			targetProxy = 7AC28F07165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28F0A165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 7AC2A38E16597F4C0089ABE8 /* Sina Weibo */;
-			targetProxy = 7AC28F09165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AECF40B171D52D0000722FA /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 7AECF31A171D5194000722FA /* YouTube */;
-			targetProxy = 7AECF40A171D52D0000722FA /* PBXContainerItemProxy */;
-		};
-		7AECF40D171D52D4000722FA /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 7AECF324171D51C3000722FA /* YouTube SDK */;
-			targetProxy = 7AECF40C171D52D4000722FA /* PBXContainerItemProxy */;
-		};
-		7AECF411171D55B7000722FA /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = GTLTouchStaticLib;
-			targetProxy = 7AECF410171D55B7000722FA /* PBXContainerItemProxy */;
-		};
-		949202C8172A9BC800DF9530 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 949BCB84172A993000D706D4 /* Buffer */;
-			targetProxy = 949202C7172A9BC800DF9530 /* PBXContainerItemProxy */;
-		};
-		9492063217302B0700DF9530 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBECF7162F0835009D46E4 /* Kippt */;
-			targetProxy = 9492063117302B0700DF9530 /* PBXContainerItemProxy */;
-		};
-		DE334C3016F333B000FF692B /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = DE334C2016F3339300FF692B /* Dropbox */;
-			targetProxy = DE334C2F16F333B000FF692B /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 

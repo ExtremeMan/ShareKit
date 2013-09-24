@@ -4639,7 +4639,7 @@
 				DSTROOT = /tmp/ShareKitLibrary.dst;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					/Users/vilemkurz/Documents/WeightMe/Submodules/ShareKit/Classes/ShareKit/Sharers/Services/Facebook,
+					/Users/nekto/Projects/xcode/Frameworks/Github/ShareKit/Classes/ShareKit/Sharers/Services/Facebook,
 				);
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -4674,7 +4674,7 @@
 				DSTROOT = /tmp/ShareKitLibrary.dst;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					/Users/vilemkurz/Documents/WeightMe/Submodules/ShareKit/Classes/ShareKit/Sharers/Services/Facebook,
+					/Users/nekto/Projects/xcode/Frameworks/Github/ShareKit/Classes/ShareKit/Sharers/Services/Facebook,
 				);
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
